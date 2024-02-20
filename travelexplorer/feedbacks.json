@@ -1,0 +1,53 @@
+{
+    "feedbacks":
+    [
+        {
+            "destination":"Glacier National Park",
+            "review1":"Words cannot express the beauty of this area. Pictures don’t do it justice. It was breathtaking",
+            "review2":"Absolutely a must! Went with a tour bus which seems the best way to go. Timing is everything.",
+            "review3":"I love Glacier National Park. This was my 1st visit and I’m already planning the next"
+        },
+        {
+            "destination":"Maui",
+            "review1":"You are going to spend quite a lot of time outdoors, so wear sunscreen and keep yourself hydrated!",
+            "review2":"Go with a group of friends! You won't regret it!!!",
+            "review3":"Amazing experience! First time, and this was the perfect setting"
+        },
+        {
+            "destination":"Honolulu - Oahu",
+            "review1":"Great luau! Very organized, ran very efficiently",
+            "review2":"We stayed at Wailea Beach Resort and decided to choose their luau out of convenience and good reviews. We are so happy we did",
+            "review3":"This was a well-organized event, though better signage to get to the luau would have been appreciated for those not staying at the resort."
+        },
+        {
+            "destination":"Zion National Park",
+            "review1":"Zion is such gem in the national park system. only a few hours drive from Las Vegas and worlds away from civilization",
+            "review2":"I have to say, out of all of the places I’ve been, this is always my favorite",
+            "review3":"I spent two days at Zion NP and it was not enough time. It is an amazingly beautiful place and I could have easily spent many more days exploring"
+        },
+        {
+            "destination":"Lake Tahoe",
+            "review1":"Super dog friendly area and beautiful place. Recommend spending some time on both sides",
+            "review2":"Lake Tahoe was absolutely beautiful and cold was there 3rd week of January 2023. Did enjoy the Gondola ride in Heavenly Villag",
+            "review3":" Did enjoy the Gondola ride in Heavenly Village. Observation deck is a must for beautiful pictures"
+        },
+        {
+            "destination":"New York City",
+            "review1":"It's a completely different world. Very fast-paced and diverse, but also loud (certain parts) and big!",
+            "review2":"It's the City That Never Sleeps with a vibrant and friendly atmosphere and something for everyone",
+            "review3":"I leave a part of my heart in New York just to go back to get it later"
+        },
+        {
+            "destination":"Key West",
+            "review1":"You can be whoever you want to be... and still have a great time",
+            "review2":"It  has something for everyone and being completely walkable, makes all its wonderful attractions very accessible.",
+            "review3":"Key West is a place where just about anything goes."
+        },
+        {
+            "destination":"Destin",
+            "review1":"They have excellent restaurant selections...most of which are very casual and laid back.",
+            "review2":"It is absolutely BEAUTIFUL!!!! There are so many things to do that you usually can't fit everything in on your first visit! ",
+            "review3":" They have the absolute Best beaches with white sand and clear water!!"
+        }
+    ]
+}

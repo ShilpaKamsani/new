@@ -1,0 +1,101 @@
+{
+    "destinations":
+    [
+        {
+            "destination":"Eureka Springs",
+            "attractions1":"Thorncrownchapel",
+            "attractions2":"Intrigue Theater",
+            "attractions3":"Turpentine Creek Wildlife Refuge",
+            "accomodation1":"Edelweiss Inn",
+            "accomodation2":"The Lodge",
+            "accomodation3":"Lookpout Lodge",
+            "traveltips1":"If you're a more budget-conscious traveler, then you may want to consider traveling to Eureka Springs between March and May",
+            "traveltips2":"Eureka Springs is the perfect antidote for the stressed-out traveler",
+            "traveltips3":"all worth exploring, photographing and viewing for days."            
+        },
+        {
+            "destination":"Branson",
+            "attractions1":"Silver Dollar City",
+            "attractions2":"Table Rock Lake",
+            "attractions3":"Titanic Museum",
+            "accomodation1":"The Keeter Center at College of the Ozarks - Lodging",
+            "accomodation2":"Savannah House Hotel",
+            "accomodation3":"Lodge of the Ozarks",
+            "traveltips1":"Temperatures can vary greatly throughout the year in Branson, so it’s important to know what to expect",
+            "traveltips2":"Many of Branson’s top attractions offer discounts for buying tickets online.",
+            "traveltips3":"Branson is home to many outdoor activities, so be sure to protect your skin."            
+        },
+        {
+            "destination":"Tulsa",
+            "attractions1":"Philbrook Museum of Art",
+            "attractions2":"Gilcrease Museum",
+            "attractions3":"Tulsa Zoo",
+            "accomodation1":"Ambassador Hotel Tulsa, Autograph Collection",
+            "accomodation2":"Hampton Inn & Suites Tulsa-Woodland Hills 71st-Memorial",
+            "accomodation3":"Hampton Inn & Suites Tulsa Central",
+            "traveltips1":"STAY AT THE TULSA CLUB HOTEL",
+            "traveltips2":"EXPLORE THE HISTORIC GREENWOOD DISTRICT",
+            "traveltips3":"INDULGE IN SOUL FOOD"            
+        },
+        {
+            "destination":"Yellowstone National Park",
+            "attractions1":"Old Faithful",
+            "attractions2":"Grand Canyon of the Yellowstone",
+            "attractions3":"Grand Prismatic Spring",
+            "accomodation1":"Old Faithful Inn",
+            "accomodation2":"Roosevelt Lodge Cabins",
+            "accomodation3":"Madison Campground",
+            "traveltips1":"Book accommodations well in advance, especially if you plan to stay within the park",
+            "traveltips2":"Consider visiting during the shoulder seasons (spring or fall) to avoid crowds and still experience the park's beauty.",
+            "traveltips3":"Plan your itinerary based on your interests. Yellowstone is vast, so prioritize what you want to see and do."            
+        },
+        {
+            "destination":"Punta Cana",
+            "attractions1":"Soona Island",
+            "attractions2":"Macao Beach",
+            "attractions3":"Reserva Ecologica Ojos Indigenas",
+            "accomodation1":"Tortuga Bay Puntacana Resort & Club",
+            "accomodation2":"Excellence Punta Cana",
+            "accomodation3":"Dreams Onyx Resort & Spa",
+            "traveltips1":"Check the weather forecast before you go. It's usually warm and tropical, but being prepared for any unexpected changes is smart.",
+            "traveltips2":"Light clothing, swimsuits, sunscreen, and hats are essential. Also, bring insect repellent, especially if you plan to explore nature reserves or forests.",
+            "traveltips3":"Choose your resort wisely. Punta Cana has a plethora of all-inclusive resorts offering various amenities."            
+        },
+        {
+            "destination":"Orlando",
+            "attractions1":"Magic Kingdom Park",
+            "attractions2":"Legoland Florida Resort",
+            "attractions3":"The Wizarding World of Harry Potter at Universal Orlando Resort",
+            "accomodation1":"Disney's Animal Kingdom Lodge",
+            "accomodation2":"Signia by Hilton Orlando Bonnet Creek",
+            "accomodation3":"Four Seasons Resort Orlando at Walt Disney World Resort",
+            "traveltips1":"Consider multi-day passes for theme parks like Disney World, Universal Studios, and SeaWorld to save money.",
+            "traveltips2":"Especially during peak seasons, booking accommodations in advance can save you money and secure better options.",
+            "traveltips3":"Many hotels offer shuttle services to major attractions, reducing the need for a car."            
+        },
+        {
+            "destination":"Sedona",
+            "attractions1":"Broken Arrow Trail",
+            "attractions2":"Red Rock Scenic Byway",
+            "attractions3":"Chapel of the Holy Cross",
+            "accomodation1":"Enchantment Resort",
+            "accomodation2":"L'Auberge de Sedona",
+            "accomodation3":"Arabella Hotel Sedona",
+            "traveltips1":"Sedona is famous for its vortex sites believed to have powerful spiritual energy. Places like Cathedral Rock and Bell Rock are said to have vortexes.",
+            "traveltips2":"Consider taking a Jeep tour to explore rugged terrain and reach viewpoints inaccessible by regular vehicles.",
+            "traveltips3":"Sedona has a vibrant art scene. Explore the numerous galleries and shops showcasing local artwork, jewelry, and crafts."            
+        },
+        {
+            "destination":"Sedona",
+            "attractions1":"Broken Arrow Trail",
+            "attractions2":"Red Rock Scenic Byway",
+            "attractions3":"Chapel of the Holy Cross",
+            "accomodation1":"Enchantment Resort",
+            "accomodation2":"L'Auberge de Sedona",
+            "accomodation3":"Arabella Hotel Sedona",
+            "traveltips1":"Sedona is famous for its vortex sites believed to have powerful spiritual energy. Places like Cathedral Rock and Bell Rock are said to have vortexes.",
+            "traveltips2":"Consider taking a Jeep tour to explore rugged terrain and reach viewpoints inaccessible by regular vehicles.",
+            "traveltips3":"Sedona has a vibrant art scene. Explore the numerous galleries and shops showcasing local artwork, jewelry, and crafts."            
+        }
+    ]
+}
